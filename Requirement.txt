@@ -1,0 +1,3 @@
+1. This is a maven project and require any maven supported IDE to run and all the required depencies are placed @ POM.xml
+2. chromedriver.exe is placed @ Resources folder in root directory.
+3. Project is compatible to Chrome browser only. 
